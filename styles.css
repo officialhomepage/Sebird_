@@ -1,0 +1,14 @@
+.onecoininfo {
+  color: #f8f8f8;
+  background: #4f4f4f;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  margin: 0;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  background: rgb(205 199 179);
+}
